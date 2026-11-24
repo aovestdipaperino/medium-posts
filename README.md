@@ -1,5 +1,7 @@
 # Medium Posts - Code Examples
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/medium-posts?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/medium-posts/stargazers)
+
 Code examples and projects accompanying my blog posts on [Medium](https://enzolombardi.net).
 
 ## About
